@@ -5,8 +5,15 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev" : "tsc -w -p tsconfig.json"
+    "dev": "tsc -w -p tsconfig.json"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@types/lodash": "^4.14.108",
+    "@types/node": "^10.0.3",
+    "express": "^4.16.3",
+    "lodash": "^4.17.10",
+    "underscore": "^1.9.0"
+  }
 }

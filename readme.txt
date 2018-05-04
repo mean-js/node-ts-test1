@@ -11,3 +11,6 @@
     sourcemap
     program
     outFiles
+
+>> NODE_MODULES in TYPE SCRIPT
+    >> https://stackoverflow.com/questions/38224232/how-to-consume-npm-modules-from-typescript
